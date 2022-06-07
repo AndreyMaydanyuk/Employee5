@@ -11,6 +11,7 @@ public class Runner {
                 .team("QA")
                 .build();
 
+        var singleton = Singleton.INSTANCE;
 
 
 
